@@ -21,3 +21,15 @@ owner.
 > <img width="859" alt="Screenshot 2023-07-04 at 2 50 14 PM" src="https://github.com/LaraAlfayyadh/Bubbles/assets/74940230/7cc54e32-111a-434c-a654-3143c1509bd9">
 > <img width="860" alt="Screenshot 2023-07-04 at 2 48 56 PM" src="https://github.com/LaraAlfayyadh/Bubbles/assets/74940230/5194c162-f6ae-4fdb-b4fa-64431528bf7b">
 > <img width="859" alt="Screenshot 2023-07-04 at 2 49 38 PM" src="https://github.com/LaraAlfayyadh/Bubbles/assets/74940230/9638bfe3-eb71-476c-ab23-06a54376520e">
+
+> https://github.com/LaraAlfayyadh/Bubbles/assets/74940230/b43c84bd-b686-4423-9f3e-6f10205043be
+
+> https://github.com/LaraAlfayyadh/Bubbles/assets/74940230/94ac3f67-4407-4e01-8456-e18d9cfc04b6
+
+> <img width="860" alt="Screenshot 2023-07-04 at 4 25 54 PM" src="https://github.com/LaraAlfayyadh/Bubbles/assets/74940230/112ec19d-6428-4e12-9db6-6e9c3d037e6a">
+
+
+> https://github.com/LaraAlfayyadh/Bubbles/assets/74940230/a6372635-8b89-4525-917b-289bfc4a2874
+
+
+
