@@ -1,15 +1,11 @@
 # Bubbles
 
-## Overview
-> The Bubbles application is an mobile application designed to provide a convenient and hassle-free way for car owners to get their vehicles cleaned. The application will allow users to book appointments for car washing and detailing at a location of their choice and they can able to get their car wash from their doorstep.
-
 ## Project Overview
-> In this project, we will go through the process of data wrangling and work on gathering and define the quality, issues and tidiness of the data. 
+> The Bubbles application is an mobile application designed to provide a convenient and hassle-free way for car owners to get their vehicles cleaned. The application will allow users to book appointments for car washing and detailing at a location of their choice and they can able to get their car wash from their doorstep.
 
 ## Goals
 > **Convenience:** To provide a convenient and easy-to-use platform for car owners to book appointments for car wash.
- **Flexibility:** To offer a range of services and packages that can be customized based on the type of vehicle and specific needs of the car
-owner.
+ **Flexibility:** To offer a range of services and packages that can be customized based on the type of vehicle and specific needs of the car owner.
 
 
 ## Tools
